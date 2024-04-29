@@ -11,7 +11,7 @@ header {
 }
 
 
-
+/* Struttura celle */
 .col {
     text-align: left;
     margin: 20px 20px 20px 0;
@@ -26,16 +26,19 @@ header {
     
 }
 
+/* Struttura immagine */
 div img {
     float: left;
     height: 100px;
 }
 
+/* Struttura per nomi e recapiti */
 span {
     padding: 15px;
     position: absolute;
 }
 
+/* Tolta sottolineatura link email */
 a {
     text-decoration: none;
     position: absolute;
