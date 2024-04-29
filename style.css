@@ -1,9 +1,44 @@
 main {
     text-align: center;
     font-family: "Varela Round", sans-serif;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 header {
     color: crimson;
-    margin-bottom: ;
+    margin-bottom: 50px;
 }
+
+
+
+.col {
+    text-align: left;
+    margin: 20px 20px 20px 0;
+    background-color: black;
+    width: 400px;
+    height: 100px;
+    color: white;
+    float: left;
+    box-shadow: 0px 0px 13px 1px black;
+    position: relative;
+
+    
+}
+
+div img {
+    float: left;
+    height: 100px;
+}
+
+span {
+    padding: 15px;
+    position: absolute;
+}
+
+a {
+    text-decoration: none;
+    position: absolute;
+    padding: 15px;
+}
+
